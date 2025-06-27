@@ -85,6 +85,17 @@ body {
 .abas-conteudo{
     display: none;
 }
+
+.abas-conteudo-titulo-pricipal{
+    font-size: 28px;
+    text-align: center;
+}
+.abas-conteudo-titulo-secundario{
+    text-align:center;
+    color:var(--verde);
+    text-transform: uppercase;
+}
+
  @media screen and (mid-width:768px){
     display: flex;
  }
